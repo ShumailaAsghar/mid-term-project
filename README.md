@@ -1,6 +1,6 @@
 # Climate Change Awareness Website
 
-**Midterm Project **
+Midterm Project 
 
 ---
 
